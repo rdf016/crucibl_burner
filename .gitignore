@@ -5,3 +5,5 @@ target
 node_modules
 test-ledger
 .yarn
+solana-release/
+solana-release-x86_64-apple-darwin.tar.bz2
